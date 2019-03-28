@@ -1,3 +1,5 @@
+// https://atcoder.jp/contests/abc122/tasks/abc122_b
+
 #include <iostream>
 #include <string>
 

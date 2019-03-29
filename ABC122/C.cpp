@@ -13,11 +13,11 @@ int main() {
     for (int i = 0; i < n; i++) {
         char current = s[i];
         char before;
-        int count = 0;
+        int count;
 
         if (i == 0) {
             count = 0;
-            before == '/0';
+            before == '0';
         } else {
             count = counts[i - 1];
             before = s[i - 1];
